@@ -1,0 +1,1 @@
+AAB LLC's website is a mobile auto repair, body shop, oil change, and detailing service based in Philadelphia, MS. Built with plain HTML, CSS, and JavaScript, it features a bold industrial design, clear service breakdowns, a simple 3-step process, and a quote form — all designed to turn visitors into calls and bookings.
